@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wil31
-- 👀 I’m interested in everything about Software (Linux/Win) and I'm a big geek of PC Hardware !
+- 👀 I’m interested in everything about Software (Linux/Win) and I'm also a hardware tech enthusiast !
 - 🌱 I’m currently learning Python and have an intermediate level in C/C++
 
 
