@@ -1,11 +1,16 @@
-👋 Hi, I’m @Wil31  
-- 👨‍🎓🐍 I’m finalising a course through OpenClassrooms to obtain a degree as [Software developer - Python](https://openclassrooms.com/en/paths/518-developpeur-dapplication-python) with a specialisation in frameworks like Django or Flask, for Web applications design.  
-- 🔎 Searching for a job which will give me the opportunity to continue learning and hone my new skills as a Software developer.  
-- 📜 Degree details: [RNCP35976](https://www.francecompetences.fr/recherche/rncp/35976/). Level 6 EQF.  
-- 🖥️ I also have a junior level in JavaScript, C/C++, and general knowledge about embedded environments (Raspberry Pi).  
-- 👀 I’m interested in everything about Software (Linux/Win) and I'm also a hardware tech enthusiast!  
+Hi, I’m William
 
-✈️ I have a professional background in the aeronautical world, where I have worked for 7+ years in Configuration Management and Technical documentation for aircraft maintenance on Airbus programs.
+Software Consultant working for Thales:
+
+ 3 years as embeded software engineer for critical aircraft systems
+ 
+ 6 months as data engineer back end dev
+ 
+🐍 Software developer - Python Level 6 EQF  
+
+📊 Certified Microsoft PL-300 Data Analyst 
+
+✈️  7+ years professional background in the aeronautical world, where I have worked in Configuration Management and Technical documentation for aircraft maintenance on Airbus programs.
 
 
 <!---
