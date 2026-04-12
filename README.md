@@ -2,10 +2,10 @@ Hi, I’m William
 
 Software Consultant working for Thales:
 
- 3 years as embeded software engineer for critical aircraft systems
- 
- 6 months as data engineer back end dev
- 
+Data engineer dev and certified Microsoft Power BI Data Analyst
+
+Embeded software engineer for critical aircraft systems
+
 🐍 Software developer - Python Level 6 EQF  
 
 📊 Certified Microsoft PL-300 Data Analyst 
